@@ -1,2 +1,2 @@
-# hello-world
+# emailnewsletter
 My first repository on GitHub.
